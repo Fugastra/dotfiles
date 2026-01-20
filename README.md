@@ -9,6 +9,6 @@ NotoSansMono (11pt)
 Catppuccin (Macchiato)
 
 ## Screenshots
-![[dotfile/img3.png]]
-![[dotfile/img2.png]]
-![[dotfile/img1.png]]
+![img3](https://github.com/Fugastra/dotfiles/blob/main/dotfile/img3.png)
+![img2](https://github.com/Fugastra/dotfiles/blob/main/dotfile/img2.png)
+![img1](https://github.com/Fugastra/dotfiles/blob/main/dotfile/img1.png)
