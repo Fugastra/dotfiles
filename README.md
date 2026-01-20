@@ -9,6 +9,6 @@ NotoSansMono (11pt)
 Catppuccin (Macchiato)
 
 ## Screenshots
-![[img3.png]]
-![[img2.png]]
-![[img1.png]]
+![[dotfile/img3.png]]
+![[dotfile/img2.png]]
+![[dotfile/img1.png]]
